@@ -10,7 +10,7 @@ This is a solution to the [Huddle landing page with single introductory section 
 
 ## 🚀 Live Site
 
-[Click here to view the live site](https://your-username.github.io/huddle-landing-page/)  
+[Click here to view the live site]((https://soumil007-pdg.github.io/vhuddle-landing-page/))  
 (Replace with your actual live GitHub Pages URL)
 
 
