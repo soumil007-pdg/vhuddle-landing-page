@@ -10,9 +10,7 @@ This is a solution to the [Huddle landing page with single introductory section 
 
 ## 🚀 Live Site
 
-[[
-](https://soumil007-pdg.github.io/vhuddle-landing-page/)
-
+🔗 [Click here to view the live site](https://soumil007-pdg.github.io/vhuddle-landing-page/)
 
 
 
